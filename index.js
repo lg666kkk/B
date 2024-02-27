@@ -1,1 +1,3 @@
-export const b = 444;
+export function submoduleMethod() {
+    console.log("This is a submodule method");
+}
